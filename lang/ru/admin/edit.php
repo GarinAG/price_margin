@@ -1,6 +1,6 @@
 <?php
 $MESS['PRICE_MARGIN_TITLE_ADD'] = 'Новая наценка/скидка';
-$MESS['PRICE_MARGIN_TITLE_UPDATE'] = 'Наценка/скидка/скидка #NAME# - Редактирование';
+$MESS['PRICE_MARGIN_TITLE_UPDATE'] = 'Наценка/скидка #NAME# - Редактирование';
 $MESS['PRICE_MARGIN_LIST'] = 'Список наценок/скидок';
 $MESS['PRICE_MARGIN_ADD_NEW'] = 'Добавить';
 $MESS['PRICE_MARGIN_DELETE'] = 'Удалить';
