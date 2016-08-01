@@ -1,0 +1,1 @@
+<?php require $_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/price_margin/admin/product_search.php'; ?>
